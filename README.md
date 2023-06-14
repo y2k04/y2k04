@@ -5,7 +5,6 @@
 ## About Me 😊
 🙋‍♀️ My name is Amber :3<br>
 🏳️‍⚧️ Pronouns: *She/Her*<br>
-🌱 Currently studying: *Diploma of Music (Sound Production)*
 
 ![](https://github-readme-stats.vercel.app/api?username=y2k04&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=y2k04&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
