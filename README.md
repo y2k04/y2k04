@@ -1,4 +1,4 @@
-### In the process of migrating to [git.gay](https://git.gay/y2k4)...
+### Migrated to [git.gay](https://git.gay/y2k4)!
 
 ---
 
